@@ -1,0 +1,4 @@
+export default {
+    BACK_IMAGE: require('../assests/image/back.png'),
+    FORWORD_IMAGE: require('../assests/image/forword.png'),
+}
